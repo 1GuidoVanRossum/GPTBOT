@@ -6,7 +6,7 @@ import os
 from app.database_4RA import create_db
 from app.handlers import router
 
-token = '6775089578:AAG5mKlJjNkcwh5Sipge0iZrq5EpuB1Y8HM'
+token = 'YOUR TOKEN'
 
 async def main():
     bot = Bot(token=token)
